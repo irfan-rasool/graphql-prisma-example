@@ -17,4 +17,8 @@
  
 
 
+# install mysql
+- brew install mysql
 
+# install workbench 
+- https://dev.mysql.com/downloads/workbench/
